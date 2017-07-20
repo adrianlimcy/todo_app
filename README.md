@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Tutorial based on:
+https://launchschool.com/blog/integrating-rails-and-bootstrap-part-1
+https://launchschool.com/blog/integrating-rails-and-bootstrap-part-2/
+https://launchschool.com/blog/integrating-rails-and-bootstrap-part-3/
